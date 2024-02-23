@@ -6,3 +6,4 @@ This is an E Commerce Website.
 
 1. Next.js
 2. Tailwind css
+3. Mongodb
