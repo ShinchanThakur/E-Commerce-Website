@@ -1,9 +1,11 @@
 import { createRouter } from 'next-connect';
 import dbConnect from '@/backend/config/dbConnect';
-import { newProduct } from '@/backend/controllers/productController';
+import { getProducts, newProduct } from '@/backend/controllers/productController';
 
 const router = createRouter();
 dbConnect();
+
 router.post(newProduct);
+router.get(getProducts);
 
 export default router.handler();
