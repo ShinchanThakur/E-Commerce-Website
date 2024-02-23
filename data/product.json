@@ -1,0 +1,8 @@
+{
+    "name": "Boat Headphones",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tincidunt auctor sodales. Nam sollicitudin ligula sed ipsum ultricies, laoreet aliquam ipsum consectetur. Integer consequat lacus sed massa imperdiet tincidunt. In finibus eget urna eget mattis. Maecenas at enim vel diam rutrum sollicitudin. Pellentesque semper, ex nec pharetra euismod, orci nulla venenatis ligula, a pretium ex nunc et sapien. Aenean nec ipsum sit amet elit blandit aliquam vitae a sapien.",
+    "price": 199.95,
+    "seller": "Boat",
+    "stock": 500,
+    "category": "Headphones"
+}
